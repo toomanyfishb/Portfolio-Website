@@ -1,6 +1,6 @@
 
-# Haikus for Codespaces
+# Portfolio Website
 
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
-
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+My name is Mobolaji Babalola and I am learning frontend web developement.
+This is a basic responsive Portfolio Website that I bn Github codespaces and I used Github for version control.
+The languages I used were HTML, CSS & Javascript.
