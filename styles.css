@@ -363,3 +363,24 @@ article .icon {
 #projects {
     position: relative;
 }
+
+.color-container {
+    border-color: rgb(128, 30, 30);
+    background: rgb(209, 200, 188);
+}
+
+.project-img {
+    border-radius: 2rem;
+    width: 90%;
+    height: 90%;
+}
+
+.project-title {
+    margin: 1rem;
+    color: rgb(128, 30, 30); 
+}
+
+.project-btn {
+    color: rgb(128, 30, 30);
+    border-color: rgb(128, 30, 30);
+}
